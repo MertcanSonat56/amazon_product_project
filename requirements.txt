@@ -3,8 +3,7 @@ pandas
 seaborn
 matplotlib
 apache-airflow
-apache-airflow[auth]
 scikit-learn
-
-
+xgboost
+joblib
 
